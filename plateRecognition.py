@@ -56,20 +56,19 @@ def drawRectBox(image,rect,addText):
 # 测试结果 并可视化
 def visual_draw_position(grr):
     model = pr.LPR("model/cascade.xml","model/model12.h5","model/ocr_plate_all_gru.h5")
-    image = grr
     for pstr,confidence,rect in model.SimpleRecognizePlateByE2E(grr):
         if confidence>0.7:
-            image = drawRectBox(image, rect, pstr+" "+str(round(confidence,3)))
+            grr = drawRectBox(grr, rect, pstr+" "+str(round(confidence,3)))
             print "车牌号:"
             print pstr
             print "置信度"
             print confidence
-    cv2.imshow("image",image)
+    cv2.imshow("image",grr)
     cv2.waitKey(0)
 
 
 
 # SpeedTest("Images/test3.jpg")
-test_image = cv2.imread("Images/test3.jpg")
+test_image = cv2.imread("Images/test4.jpg")
 print(recognize_plate(test_image))
 visual_draw_position(test_image)
