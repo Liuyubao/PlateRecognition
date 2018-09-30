@@ -3,7 +3,7 @@
 简介
 --
 
-本文基于HyperLPR进行修改，完整代码参考https://github.com/Liuyubao/PlateRecognition。
+本文基于HyperLPR进行修改，完整代码参考https://github.com/Liuyubao/PlateRecognition
 
 HyperLPR是一个使用深度学习针对对中文车牌识别的实现，与较为流行的开源的其他框架相比，它的检测速度和鲁棒性和多场景的适应性都要好于目前开源的框架，HyperLPR可以识别多种中文车牌包括白牌，新能源车牌，使馆车牌，教练车牌，武警车牌等。 
 
@@ -41,7 +41,7 @@ HyperLPR是一个使用深度学习针对对中文车牌识别的实现，与较
 
 ![这里写图片描述](https://img-blog.csdn.net/20180621234815734?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1l1YmFvTG91aXNMaXU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
-基于HyperLPR进行修改，完整代码参考https://github.com/Liuyubao/PlateRecognition。
+基于HyperLPR进行修改，完整代码参考https://github.com/Liuyubao/PlateRecognition
 
 如有疑问，欢迎留言或微信咨询：523331232
 
