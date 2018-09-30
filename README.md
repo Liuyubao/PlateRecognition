@@ -39,7 +39,7 @@ HyperLPR是一个使用深度学习针对对中文车牌识别的实现，与较
 
 进入对应目录可直接运行 plateRecognition.py 文件。
 
-![这里写图片描述](https://img-blog.csdn.net/20180621234815734?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1l1YmFvTG91aXNMaXU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![这里写图片描述]( https://img-blog.csdn.net/20180621234815734?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1l1YmFvTG91aXNMaXU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70 )
 
 基于HyperLPR进行修改，完整代码参考https://github.com/Liuyubao/PlateRecognition
 
@@ -62,6 +62,6 @@ HyperLPR是一个使用深度学习针对对中文车牌识别的实现，与较
 ![这里写图片描述](https://img-blog.csdn.net/2018062123563563?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1l1YmFvTG91aXNMaXU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 
-【完整代码参考https://github.com/Liuyubao/PlateRecognition】
+【完整代码参考https://github.com/Liuyubao/PlateRecognition 】
 
 【如有疑问，欢迎留言或微信咨询：523331232】
