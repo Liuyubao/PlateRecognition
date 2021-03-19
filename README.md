@@ -43,7 +43,6 @@ HyperLPR是一个使用深度学习针对对中文车牌识别的实现，与较
 
 基于HyperLPR进行修改，完整代码参考https://github.com/Liuyubao/PlateRecognition
 
-如有疑问，欢迎留言或微信咨询：523331232
 
 结果展示
 ----
@@ -64,4 +63,3 @@ HyperLPR是一个使用深度学习针对对中文车牌识别的实现，与较
 
 【完整代码参考https://github.com/Liuyubao/PlateRecognition 】
 
-【如有疑问，欢迎留言或微信咨询：523331232】
